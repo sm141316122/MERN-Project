@@ -50,3 +50,9 @@ https://github.com/sm141316122/MERN-Project/assets/126851722/2a67c8b9-ae7a-4235-
 - passport
 - passport-jwt
 - passport-local
+
+# 安裝
+1. clone 此專案
+2. cd Client、Server 執行 npm install
+3. cd Server 執行 node index.js
+4. cd Client 執行 npm start
