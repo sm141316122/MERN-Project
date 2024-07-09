@@ -10,7 +10,7 @@ require("./config/passport")(passport);
 
 // 連結MongoDB
 mongoose
-  .connect("mongodb://127.0.0.1:27017/mernDB")
+  .connect("mongodb+srv://test123:test123@mern.tnnhvkg.mongodb.net/")
   .then(() => {
     console.log("Connecting to mongodb");
   })
